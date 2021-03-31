@@ -1,2 +1,2 @@
 # TipTime2
-Follow along for Google Developer Theme Guide
+App for calculating tips
